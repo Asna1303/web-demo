@@ -1,0 +1,27 @@
+.header{
+    width:100%;
+    background-color: orangered;
+    height:150px;
+}
+.left-section{
+    width: 20%;
+    float: left;
+    height: 400px;
+    background-color: yellowgreen;
+}
+.right-section{
+    width: 80%;
+    float: left;
+    height: 400px;
+    background-color: rgb(238, 13, 47);
+}
+.footer{
+    width: 100%;
+    float: left;
+    height: 150px;
+    background-color: rgb(15, 29, 27);
+}
+.content{
+    height: 100px;
+}
+

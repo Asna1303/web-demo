@@ -1,0 +1,40 @@
+button{
+    color: white;
+    background-color: rgba(136, 60, 137, 0.727);
+}
+#para1{
+    color:cadetblue;
+    font-size: 34px;
+    background-color: darkgoldenrod;
+}
+#para2{
+    color:cyan;
+    font-size:34px;
+    background-color:red;
+}
+.content{
+    color: blue;
+    font-size: 25px;
+    
+}
+outer-box{
+    width: 300px;
+    height:200px;
+    background-color: greenyellow;
+  
+    padding-left: 30px;
+    padding-top: 40px;
+    border: 6px solid;
+    border-color: crimson;
+}
+.box{
+    margin-left: 100px;
+    padding-left: 50px;
+   
+}
+.inner-div{
+    margin: 10px;
+    width: 100px;
+    height:160px;
+ background-color: blueviolet;
+}
